@@ -18,7 +18,6 @@ repositories {
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter-rsocket")
     implementation("io.projectreactor.kotlin:reactor-kotlin-extensions")
-    implementation("org.springframework.shell:spring-shell-starter:2.0.0.RELEASE")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
